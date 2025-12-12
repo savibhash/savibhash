@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Savibhash 👋
 
-<!--
-**savibhash/savibhash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
 
-Here are some ideas to get you started:
+I'm a **16-year-old student and tech enthusiast** who loves coding, learning new technologies, and working on exciting projects.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills & Tools
+- **Programming Languages:** Python, C++, Java
+- **Web & Dev Tools:** Git, GitHub, HTML, CSS, JavaScript
+- **Other Tools:** VS Code, Jupyter Notebook, Windows 11
+
+---
+
+## 🚀 What I’m currently doing
+- Preparing for **JEE & CBSE exams**  
+- Building personal coding projects and learning **full-stack development**  
+- Exploring **AI, ML, and data science**  
+
+---
+
+## 📫 Connect with me
+- [LinkedIn](www.linkedin.com/in/savibhash-yadav)  
+- [Twitter](https://x.com/savibhash)  
+
+---
+
+## ⚡ Fun Fact
+I’m always experimenting with new ideas, from **tech projects to study hacks**, and love sharing knowledge with others.
+
